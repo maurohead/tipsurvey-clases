@@ -1,0 +1,3 @@
+curso_security_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: CursoSecurityBundle:Default:index }

@@ -1,3 +1,11 @@
+curso_backend:
+    resource: "@CursoBackendBundle/Resources/config/routing.yml"
+    prefix:   /
+
+curso_security:
+    resource: "@CursoSecurityBundle/Resources/config/routing.yml"
+    prefix:   /
+
 curso_survey:
     resource: "@CursoSurveyBundle/Resources/config/routing.yml"
     prefix:   /

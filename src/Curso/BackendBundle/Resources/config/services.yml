@@ -1,0 +1,7 @@
+parameters:
+#    curso_backend.example.class: Curso\BackendBundle\Example
+
+services:
+#    curso_backend.example:
+#        class: %curso_backend.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

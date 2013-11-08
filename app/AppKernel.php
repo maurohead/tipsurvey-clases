@@ -19,6 +19,8 @@ class AppKernel extends Kernel
            // new SICE\HolaBundle\SICEHolaBundle(),
             //new Lampara\MauricioBundle\LamparaMauricioBundle(),
             new Curso\SurveyBundle\CursoSurveyBundle(),
+            new Curso\SecurityBundle\CursoSecurityBundle(),
+            new Curso\BackendBundle\CursoBackendBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
