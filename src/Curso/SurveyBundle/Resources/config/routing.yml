@@ -1,0 +1,7 @@
+curso_survey_homepage:
+    pattern:  /
+    defaults: { _controller: CursoSurveyBundle:Default:index }
+
+CursoSurveyBundle_survey:
+    resource: "@CursoSurveyBundle/Resources/config/routing/survey.yml"
+    prefix:   /survey

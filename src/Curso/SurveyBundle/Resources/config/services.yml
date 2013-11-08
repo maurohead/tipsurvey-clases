@@ -1,0 +1,7 @@
+parameters:
+#    curso_survey.example.class: Curso\SurveyBundle\Example
+
+services:
+#    curso_survey.example:
+#        class: %curso_survey.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

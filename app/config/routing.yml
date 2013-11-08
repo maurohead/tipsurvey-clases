@@ -1,0 +1,6 @@
+curso_survey:
+    resource: "@CursoSurveyBundle/Resources/config/routing.yml"
+    prefix:   /
+
+
+
