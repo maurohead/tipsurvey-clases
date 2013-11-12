@@ -1,0 +1,8 @@
+CursoBackendBundles_dashboard:
+    pattern: /
+    defaults: { _controller: "CursoBackendBundle:Default:index" }
+    
+    
+    
+    
+    
